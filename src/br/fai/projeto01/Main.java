@@ -20,6 +20,10 @@ public class Main {
 		idade *= 2;
 		
 		System.out.println("Resultado 1: " + idade);
+		
+		idade -= 5;
+		
+		System.out.println("Resultado 2: " + idade);
 	}
 
 }
